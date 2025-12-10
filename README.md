@@ -1,1 +1,1 @@
-## (Smacznej kawusi)[kawusia.md]
+## [Smacznej kawusi](kawusia.md)
